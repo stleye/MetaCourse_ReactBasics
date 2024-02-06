@@ -1,0 +1,22 @@
+# Dependency directories
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# IDE files
+/.idea
+/.vscode
+
+# OS generated files
+.DS_Store
+Thumbs.db
